@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Gallery Opening: Modern Visions",
+    "starts_at": "2025-09-10T19:00:00.000Z",
+    "city": "London",
+    "image_url": "https://picsum.photos/200/200?1",
+    "is_paid": true,
+    "external_link": "https://example.com/event/1"
+  },
+  {
+    "id": "2",
+    "title": "Southbank Jazz Night",
+    "starts_at": "2025-09-12T20:00:00.000Z",
+    "city": "London",
+    "image_url": "https://picsum.photos/200/200?2",
+    "is_paid": false,
+    "external_link": "https://example.com/event/2"
+  },
+  {
+    "id": "3",
+    "title": "Sunday Film Club: Classics",
+    "starts_at": "2025-09-14T17:00:00.000Z",
+    "city": "London",
+    "image_url": "https://picsum.photos/200/200?3",
+    "is_paid": true,
+    "external_link": "https://example.com/event/3"
+  }
+]
